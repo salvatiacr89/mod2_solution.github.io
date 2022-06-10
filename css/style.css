@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+html {
+  font-size: 16px;
+}
+
 p {
   margin-right: 10px;
   margin-left: 10px;
@@ -12,12 +16,12 @@ p {
 .abspos {
   position: absolute;
   width:25%;
-  height:25px;
+  height:14%;
   right: 0px;
-  top: 0px;
+  top: -4px;
   border: 1px solid black;
   text-align: center;
-  font-size: 1.25em;
+  font-size: 1.25rem;
   border: 1px solid black;
 }
 
@@ -30,7 +34,7 @@ p {
 
 #title {
   text-align: center;
-  font-size: 1.75em;
+  font-size: 1.75rem;
   font-weight: bold;
 }
 
@@ -41,6 +45,7 @@ p {
 
 #section1 {
   background-color: #F08080;
+  color:white;
 }
 
 #section2 {
