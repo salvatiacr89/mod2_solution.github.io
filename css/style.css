@@ -21,6 +21,7 @@ p {
   top: -4px;
   border: 1px solid black;
   text-align: center;
+  vertical-align: text-top;
   font-size: 1.25rem;
   border: 1px solid black;
 }
